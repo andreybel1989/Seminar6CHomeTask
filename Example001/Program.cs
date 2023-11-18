@@ -45,7 +45,7 @@ void PrintArray(int[] arr)
 }
 void PrintResult(int res)
 {
-    Console.WriteLine($"result =  {res}");
+    Console.WriteLine($"number > 0 =  {res}");
 }
 int [] array = GetArrayNumber(number);
 
